@@ -1,0 +1,14 @@
+"BehaviorSpace results (NetLogo 6.2.2)"
+"creative_quick.nlogo"
+"cd-num-agents"
+"09/25/2022 20:50:01:127 +0300"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-30","30","-30","30"
+"[run number]","1","1","1","1","1","2","2","2","2","2","3","3","3","3","3","4","4","4","4","4","5","5","5","5","5","6","6","6","6","6","7","7","7","7","7","8","8","8","8","8","9","9","9","9","9"
+"step-size","1",,,,,"1",,,,,"1",,,,,"1",,,,,"1",,,,,"1",,,,,"1",,,,,"1",,,,,"1",,,,
+"r","2.4",,,,,"2.4",,,,,"2.4",,,,,"2.4",,,,,"2.4",,,,,"2.4",,,,,"2.4",,,,,"2.4",,,,,"2.4",,,,
+"num","100",,,,,"100",,,,,"100",,,,,"200",,,,,"200",,,,,"200",,,,,"300",,,,,"300",,,,,"300",,,,
+"[steps]","3296","3296","3296","3296","3296","3603","3603","3603","3603","3603","3568","3568","3568","3568","3568","2384","2384","2384","2384","2384","2343","2343","2343","2343","2343","2891","2891","2891","2891","2891","2295","2295","2295","2295","2295","1767","1767","1767","1767","1767","2353","2353","2353","2353","2353"
+
+"[initial & final values]","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement","get-cover-time","get-reach-border-time","mean [distance-to-zero] of turtles","step-size * sqrt ticks","get-displacement"
+,"3296","898","22.758370995171063","57.41080037762929","271.49695251399754","3603","3603","23.52714707931382","60.024994793835674","546.0126259113555","3568","3568","22.7756020484916","59.732738092272314","312.8889026739847","2384","2384","20.86649864221759","48.82622246293481","389.9432163175409","2343","2343","21.311300567333486","48.40454524112379","344.62519309250183","2891","2891","21.582561210588935","53.76802023508026","527.7840261965042","2295","2295","20.71317826326622","47.90615826801394","478.12562046614244","1767","1767","19.855142050249643","42.035699113967404","273.9996043457406","2353","2353","20.176744319872633","48.507731342539614","493.2945604659023"
